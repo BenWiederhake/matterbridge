@@ -47,6 +47,7 @@ require (
 	github.com/writeas/go-strip-markdown v2.0.1+incompatible
 	github.com/yaegashi/msgraph.go v0.1.4
 	github.com/zfjagann/golang-ring v0.0.0-20210116075443-7c86fdb43134
+	gitlab.com/signald/signald-go v0.0.0-20220223161627-096152394a2c
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	gomod.garykim.dev/nc-talk v0.3.0
